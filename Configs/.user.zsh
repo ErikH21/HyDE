@@ -11,7 +11,7 @@ elif command -v fastfetch >/dev/null; then
 fi
 
 # fastfetch.sh
-
+fastfetch
 #  Aliases 
 # Override aliases here or in '~/.zshrc' (already set in .zshenv)
 
